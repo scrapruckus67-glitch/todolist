@@ -1,0 +1,19 @@
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 400px;
+    padding: 20px;
+    background-color: rgb(31, 204, 235);
+    color:blanchedalmond;
+    
+}
+.task{
+    height:100px;
+    width:350px;
+    border: 0.5px solid grey;
+    border-radius: 10px;
+    background-color: white;
+}
